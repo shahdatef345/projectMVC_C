@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\views\\grades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\views\\grades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\dataaccess\\repository\\ireposetory\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\ireposetory\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\dataaccess\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\views\\subject\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\views\\subject\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./OnlineCenter/True/SqlTable/dbo.Subjects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\models\\studentlecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\studentlecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\dataaccess\\migrations\\20241203184405_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241203184405_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203182637_initialcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20241203182637_initialcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203183022_studentlectureupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20241203183022_studentlectureupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\dataaccess\\migrations\\20241203183230_initialrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241203183230_initialrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|c:\\users\\hp\\downloads\\projectmvconlinecenter\\online_center\\dataaccess\\migrations\\20241203203714_insertsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241203203714_insertsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Views\\Grades\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Views\\Grades\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Views\\Grades\\Create.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Views\\Grades\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T12:26:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:00:53.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Views\\Cart\\Index.cshtml*",
+              "RelativeToolTip": "OnlineCenter\\Views\\Cart\\Index.cshtml*",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T09:43:49.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Controllers\\CartController.cs",
+              "RelativeToolTip": "OnlineCenter\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:31:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Repository\\IReposetory\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IReposetory\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Repository\\IReposetory\\ICartRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IReposetory\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:46:33.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:15:06.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Controllers\\GradesController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "OnlineCenter\\Controllers\\GradesController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAywEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:31:22.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineCenter\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\appsettings.json",
+              "RelativeToolTip": "OnlineCenter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T18:31:47.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:05:51.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Program.cs",
+              "RelativeToolTip": "OnlineCenter\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:53:42.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:50:56.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:28:50.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:51:01.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "OnlineCenter\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:29:43.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineCenter\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:31:32.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Subjects.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./OnlineCenter/True/SqlTable/dbo.Subjects.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./OnlineCenter/True/SqlTable/dbo.Subjects.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-03T20:49:10.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Views\\Subject\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Views\\Subject\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Views\\Subject\\Index.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Views\\Subject\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T01:41:46.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Views\\Subject\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Views\\Subject\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Views\\Subject\\Create.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Views\\Subject\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T01:59:51.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:08:37.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentLecture.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\StudentLecture.cs",
+              "RelativeDocumentMoniker": "Models\\StudentLecture.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\Models\\StudentLecture.cs",
+              "RelativeToolTip": "Models\\StudentLecture.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:27:34.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:36:06.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241203203714_insertsubject.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203203714_insertsubject.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241203203714_insertsubject.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203203714_insertsubject.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20241203203714_insertsubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:37:14.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "OnlineCenter\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "OnlineCenter\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T20:11:48.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:37:22.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T18:36:50.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T18:40:17.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241203184405_SeedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203184405_SeedRoles.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241203184405_SeedRoles.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203184405_SeedRoles.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20241203184405_SeedRoles.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:44:05.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T18:48:00.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:40:39.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwGoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:41:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T18:41:18.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241203183230_initialrow.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203183230_initialrow.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241203183230_initialrow.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203183230_initialrow.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20241203183230_initialrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:32:31.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241203182637_initialcolumn.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203182637_initialcolumn.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241203182637_initialcolumn.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203182637_initialcolumn.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20241203182637_initialcolumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:26:37.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241203183022_studentlectureupdate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203183022_studentlectureupdate.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241203183022_studentlectureupdate.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProjectMVConlinecenter\\Online_Center\\DataAccess\\Migrations\\20241203183022_studentlectureupdate.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20241203183022_studentlectureupdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:30:22.939Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B161B93E-F9AB-47C1-9052-A3E34B731AE7}|Utilities\\Utilities.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B161B93E-F9AB-47C1-9052-A3E34B731AE7}|Utilities\\Utilities.csproj|solutionrelative:utilities\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\models\\studentlecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\studentlecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAQwKgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:40:20.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:39:38.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T22:24:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Utilities\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Utilities\\EmailSender.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Utilities\\EmailSender.cs",
+              "RelativeToolTip": "Utilities\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:18:23.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml*",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:19:34.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:16:09.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:39:20.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:39:11.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:15:15.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:15:14.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:15:13.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:15:08.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentLecture.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\StudentLecture.cs",
+              "RelativeDocumentMoniker": "Models\\StudentLecture.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\StudentLecture.cs",
+              "RelativeToolTip": "Models\\StudentLecture.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:21:47.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Program.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Program.cs",
+              "RelativeToolTip": "OnlineCenter\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:29:12.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineCenter\\appsettings.json",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\appsettings.json",
+              "RelativeToolTip": "OnlineCenter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T20:45:44.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:44:04.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:36:11.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:17:52.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:17:03.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OnlineCenter\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OnlineCenter\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T20:38:57.813Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 2,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

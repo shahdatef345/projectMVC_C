@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Models.Subject>
+
+<h2>Subjects</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Grade Subjects Count</th>
+            <th>Courses Count</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var subject in Model)
+        {
+            <tr>
+                <td>@subject.Id</td>
+                <td>@subject.Name</td>
+                <td>@(subject.GradeSubjects?.Count ?? 0)</td>
+                <td>@(subject.Courses?.Count ?? 0)</td>
+            <td>
+                  
+                    <a href="/Subject/Edit?subjectId=@subject.Id"><button type="button" class="btn btn-danger">Edit</button>
+
+
+                        <a href="/Subject/Delete?subjectId=@subject.Id">
+                            <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal" data-id="@subject.Id">
+                                Delete
+                            </button>
+                        </a>
+                    </td>
+            </tr>
+        }
+      
+    </tbody>
+    <tfoot>
+    <a href="/Subject/Create">  <button type="button" class="btn btn-danger">Create</button></a>
+    </tfoot>
+</table>
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Models.Cart> // Replace "Models" with your namespace
+
+@{
+    ViewData["Title"] = "Your Shopping Cart";
+}
+
+<h1>Your Shopping Cart</h1>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Book</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Book?.Name
+                 
+                        @item.Book?.Price.ToString("C")
+                    </td>
+                 
+                    <td>
+                        
+                        <div>
+                            <a href="/Cart/Delete?productId=@item.BookId" class="btn btn-danger bg-gradient py-2 ">
+                                <i class="bi bi-trash-fill"></i></a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p><strong>Total:</strong> @ViewBag.Total</p>
+
+}
+else
+{
+    <p>Your cart is currently empty.</p>
+}

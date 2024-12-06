@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Models.Grade>
+
+@{
+    ViewData["Title"] = "Grades";
+}
+
+<h2>Grades</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var grade in Model)
+        {
+            <tr>
+                <td>@grade.Name</td>
+                <td>
+                    <a href="/Grades/Edit?gradeId=@grade.Id">
+                        <button type="button" class="btn btn-danger">Edit</button>
+
+
+                        <a href="/Grades/Delete?gradeId=@grade.Id">
+                            <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal" data-id="@grade.Id">
+                                Delete
+                            </button>
+                        </a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-success">Create New Grade</a>
